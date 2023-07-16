@@ -12,7 +12,7 @@ dependencies:
   jose:
     git:
       url: https://github.com/labcorp/jose.git
-      ref: main
+      ref: master
   pointycastle: ^3.0.0
   http: ^1.1.0
   logging: ^1.0.0
